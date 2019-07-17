@@ -1,3 +1,17 @@
+## [0.12.4](https://github.com/IBM/openapi-validator/compare/v0.12.3...v0.12.4) (2019-07-04)
+
+
+### Bug Fixes
+
+* make $ref pattern check configurable - new rule `incorrect_ref_pattern` ([#78](https://github.com/IBM/openapi-validator/issues/78)) ([20f0911](https://github.com/IBM/openapi-validator/commit/20f0911))
+
+## [0.12.3](https://github.com/IBM/openapi-validator/compare/v0.12.2...v0.12.3) (2019-07-01)
+
+
+### Bug Fixes
+
+* remove support for `links` in swagger2 ([#76](https://github.com/IBM/openapi-validator/issues/76)) ([8b28d67](https://github.com/IBM/openapi-validator/commit/8b28d67))
+
 ## [0.12.2](https://github.com/IBM/openapi-validator/compare/v0.12.1...v0.12.2) (2019-06-28)
 
 
